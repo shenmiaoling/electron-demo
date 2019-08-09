@@ -1,0 +1,20 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.0"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "easemob-emedia": "^2.1.1",
+    "easemob-webrtc": "^3.0.6",
+    "easemob-websdk": "^3.0.4"
+  }
+}
